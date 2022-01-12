@@ -46,7 +46,6 @@
 
   <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img alt="Html" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-
 <a href="https://en.wikipedia.org/wiki/CSS"><img alt="Css" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="Java Script" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
