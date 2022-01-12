@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=1a2a3c&size=28&lines=Welcome+to+my+GitHub+Profile!;My+name+is+AlMustafa" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ad0052&size=26&lines=Welcome+to+my+GitHub+Profile!;My+name+is+AlMustafa" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/almustafa-noureddin/" target="_blank">
@@ -19,7 +19,7 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 
-- 👋 Hi, I’m AlMustafa
+- 👋 Hi, I’m AlMusttafa
 - 💼 I'm an aspiring Data Scientist
 
 - 👯 Happy to collaborate on data analytics and data science projects, database design  or backend web developmant using Django.
@@ -45,6 +45,10 @@
   </a>
 
   <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img alt="Html" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+
+<a href="https://en.wikipedia.org/wiki/CSS"><img alt="Css" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="Java Script" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
    <a href="https://postgresql.org/" target="_blank">
     <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -52,7 +56,7 @@
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
  <a href="https://public.tableau.com/en-us/s/"><img alt="Tableau" src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+
 <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 
 
