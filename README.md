@@ -19,7 +19,7 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 
-- 👋 Hi, I’m AlMusttafa
+- 👋 Hi, I’m AlMustafa
 - 💼 I'm an aspiring Data Scientist
 
 - 👯 Happy to collaborate on data analytics and data science projects, database design  or backend web developmant using Django.
